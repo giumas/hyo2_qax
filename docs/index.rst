@@ -13,6 +13,7 @@ QAX documentation
     developer_guide
     license
     credits
+    project_governance
 
 
 * :ref:`genindex`
