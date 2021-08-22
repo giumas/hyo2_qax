@@ -7,12 +7,14 @@ This document describes how the QAX Project is managed. The primary topics are:
 
 * The membership of the **QAX Steering Committee**.
 * The decision process related to **QAX Project changes**.
+* The handling of **code changes**.
 
 In brief, the QAX Steering Committee votes on proposals created as
 `GitHub tickets <https://github.com/ausseabed/qax/issues>`_.
 These proposals are available for review for at least three business days.
 A single veto is sufficient to delay proposal acceptance although ultimately
 a majority of members can pass a proposal.
+All not-minor code changes require at least 1 reviewer.
 
 Steering Committee
 ------------------
@@ -71,7 +73,7 @@ Code Changes
 Whether or not a proposal is required, all not-minor code changes require the submission of
 a `GitHub pull request <https://github.com/ausseabed/qax/pulls>`_.
 
-Before a proposal is merged, at least a reviewer different than the submitter needs to approve
+Before a proposal is merged, at least 1 reviewer (different than the submitter) needs to approve
 the code changes.
 
 Bootstrapping
