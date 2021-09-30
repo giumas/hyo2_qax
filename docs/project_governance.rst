@@ -27,7 +27,7 @@ Roles
 The Steering Committee:
 
 * Oversees the management and direction of the QAX project
-* Votes on proposals created as GitHub tickets
+* Votes on proposals created as GitHub issues
 * Manages roles within the GitHub repository (e.g. reviewer, owner, etc)
 * Will elect a Chair from the committee
 * Are responsible for communicating project intentions to the broader community
@@ -122,7 +122,7 @@ Process
 
 The following process is to be undertaken for all major proposals.
 
-#. A proposal is created as a `GitHub ticket <https://github.com/ausseabed/qax/issues>`_
+#. A proposal is created as a `GitHub issue <https://github.com/ausseabed/qax/issues>`_
    for discussion and voting by any interested party (not just the committee members).
 #. Before a final decision can be made, a proposal needs to be available for review for (at least) three business days.
 #. Respondents may vote:
