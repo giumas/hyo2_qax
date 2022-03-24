@@ -45,7 +45,7 @@ Chair:
 Bootstrapping
 ^^^^^^^^^^^^^
 
-Lachlan Hurst (FrontiersSI), Justy Siwabessy (Geoscience Australia), Zzzz Wwwww (Kkkkk), Tyanne Faulkes (NOAA, OCS) and
+Lachlan Hurst (FrontierSI), Justy Siwabessy (Geoscience Australia), Matt Boyd (CSIRO), Tyanne Faulkes (NOAA, OCS) and
 Giuseppe Masetti (UNH, CCOM) are declared to be the founding QAX Steering Committee.
 
 Lachlan Hurst is declared initial Chair of the QAX Steering Committee.
